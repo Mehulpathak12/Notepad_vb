@@ -9,8 +9,6 @@ A modern, lightweight Notepad application built using **VB.NET**, enhanced with 
 - 🔁 **Word Wrap Toggle** for better readability
 - 📊 **Status Bar** showing real-time line and column tracking
 - 🕘 **Recent Files List** for quick access
-- 🌗 **Dark Mode Toggle** for comfortable writing in any environment
-- 💾 **Auto-Save** feature to prevent data loss
 
 ### 🤖 AI Enhancements (via Ollama API)
 - ✍️ **Grammar Correction**: Highlight text and fix grammar using LLM models
